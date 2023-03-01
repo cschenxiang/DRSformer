@@ -8,7 +8,7 @@ Learning A Sparse Transformer Network for Effective Image Deraining (CVPR 2023)
 ## Citation
 If you are interested in this work, please consider citing:
 
-    @inproceedings{chen2023hybrid,
+    @inproceedings{DRSformer,
         title={Learning A Sparse Transformer Network for Effective Image Deraining}, 
         author={Chen, Xiang and and Li, Hao and Li, Mingqiang and Pan, Jinshan},
         booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
