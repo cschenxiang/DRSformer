@@ -1,6 +1,6 @@
 # Learning A Sparse Transformer Network for Effective Image Deraining (CVPR 2023)
 
-[Xiang Chen](https://cschenxiang.github.io/), [Hao Li](https://house-leo.github.io/), Mingqiang Li, [Jinshan Pan](https://jspan.github.io/)
+[Xiang Chen](https://cschenxiang.github.io/), [Hao Li](https://house-leo.github.io/), Mingqiang Li, and [Jinshan Pan](https://jspan.github.io/)
 
 
 ## Updates
