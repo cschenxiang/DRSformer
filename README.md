@@ -1,9 +1,19 @@
-# DRSformer
+# Learning A Sparse Transformer Network for Effective Image Deraining (CVPR 2023)
 
-Learning A Sparse Transformer Network for Effective Image Deraining (CVPR 2023)
+[Xiang Chen](https://cschenxiang.github.io/), [Hao Li](https://house-leo.github.io/), Mingqiang Li, [Jinshan Pan](https://jspan.github.io/)
+
 
 ## Updates
 - [2023-02-28] This paper will appear in CVPR 2023.
+
+<hr />
+
+> **Abstract:**Transformers have achieved significant decent performance in image deraining as they can better model the non-local information which is vital for high-quality image reconstruction. In this paper, we find that most existing Transformers usually use all similarities of the tokens from the query-key pairs for the feature aggregation. However, if the tokens from the query are different from those of the key, the self-attention values estimated from these tokens also involve in feature aggregation, which accordingly interferes with the clear image restoration. To overcome this problem, we propose an effective deraining network, sparse Transformer (DRSformer) that can adaptively keep the most useful self-attention values for feature aggregation so that the aggregated features better facilitate high-quality image reconstruction. Specifically, we develop a simple yet learnable top-k selection operator to adaptively retain the most crucial attention scores from the keys for each query for better feature aggregation. Simultaneously, as the naive feed-forward network in Transformers does not model the multi-scale information that is important for latent clear image restoration, we develop an effective mixed-scale feed-forward network to generate better features for image deraining. To learn an enriched set of hybrid features that combines local context from CNN operators, we also equip our model with mixture of experts feature compensator to present a cooperation refinement deraining scheme. Extensive experimental results on the commonly used benchmarks demonstrate that the proposed method achieves favorable performance against state-of-the-art approaches. The source codes are available at https://github.com/cschenxiang/DRSformer.** 
+<hr />
+
+## Network Architecture
+
+<img src = "figs/network.png"> 
 
 ## Citation
 If you are interested in this work, please consider citing:
@@ -16,7 +26,7 @@ If you are interested in this work, please consider citing:
     }
 
 ## Acknowledgment
-This code is based on the [Restormer](https://github.com/swz30/Restormer). Thanks for sharing !
+This code is based on the [Restormer](https://github.com/swz30/Restormer). Thanks for their awesome work.
 
 ## Contact
 Should you have any question or suggestion, please contact chenxiang@njust.edu.cn.
