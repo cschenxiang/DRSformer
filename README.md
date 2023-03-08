@@ -19,10 +19,10 @@
 See folder "evaluations" 
 
 1) *for Rain200L/H and SPA-Data datasets*: 
-The PSNR and SSIM results are computed by using this [Matlab Code] (https://github.com/hongwang01/RCDNet/tree/master/Performance_evaluation)
+The PSNR and SSIM results are computed by using this [Matlab Code](https://github.com/hongwang01/RCDNet/tree/master/Performance_evaluation).
 
 2) *for DID-Data and DDN-Data datasets*: 
-The PSNR and SSIM results are computed by using this [Matlab Code] (https://github.com/swz30/Restormer/blob/main/Deraining/evaluate_PSNR_SSIM.m)
+The PSNR and SSIM results are computed by using this [Matlab Code](https://github.com/swz30/Restormer/blob/main/Deraining/evaluate_PSNR_SSIM.m).
 
 ## Citation
 If you are interested in this work, please consider citing:
