@@ -28,7 +28,6 @@
   </tr>
 </thead>
 <tbody>
-
   <tr>
     <td>Baidu Cloud</td>
     <td> <a href="https://pan.baidu.com/s/1rTb4qU3fCEA4MRpQss__DA?pwd=s2yx">Download</a> </td>
@@ -49,6 +48,47 @@ PSNR and SSIM results are computed by using this [Matlab Code](https://github.co
 
 2) *for DID-Data and DDN-Data datasets*: 
 PSNR and SSIM results are computed by using this [Matlab Code](https://github.com/hongwang01/RCDNet/tree/master/Performance_evaluation).
+
+## Visual Results
+<table>
+<thead>
+  <tr>
+    <th>Dataset</th>
+    <th>Rain200L</th>
+    <th>Rain200H</th>
+    <th>DID-Data</th>
+    <th>DDN-Data</th>
+    <th>SPA-Data</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>DualGCN</td>
+    <td> Not available </td>
+    <td> Not available </td>
+    <td> Not available </td>
+    <td> Not available </td>
+    <td> Not available </td>
+  </tr>
+  <tr>
+    <td>SPDNet</td>
+    <td> Not available </td>
+    <td> Not available </td>
+    <td> Not available </td>
+    <td> Not available </td>
+    <td> Not available </td>
+  </tr>
+  <tr>
+    <td>Uformer-B</td>
+    <td> Not available </td>
+    <td> Not available </td>
+    <td> Not available </td>
+    <td> Not available </td>
+    <td> Not available </td>
+  </tr>
+</tbody>
+</table>
+
 
 ## Citation
 If you are interested in this work, please consider citing:
