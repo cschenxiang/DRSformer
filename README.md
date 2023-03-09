@@ -34,7 +34,8 @@
     <td>1,800 / 200</td>
     <td>12,000 / 1,200</td>
     <td>14,000 / 1,400</td>
-    <td>638,492 / 1,000</td> 
+    <td>638,492 / 1,000</td>
+  </tr>
   <tr>
     <td>Baidu Cloud</td>
     <td> <a href="https://pan.baidu.com/s/1rTb4qU3fCEA4MRpQss__DA?pwd=s2yx">Baidu Cloud</a> </td>
