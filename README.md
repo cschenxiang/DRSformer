@@ -28,14 +28,7 @@
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td>Train / Test</td>
-    <td>1800 / 200</td>
-    <td>1800 / 200</td>
-    <td>12000 / 1200</td>
-    <td>14000 / 1400</td>
-    <td>638492 / 1000</td>
-  </tr>
+
   <tr>
     <td>Baidu Cloud</td>
     <td> <a href="https://pan.baidu.com/s/1rTb4qU3fCEA4MRpQss__DA?pwd=s2yx">Baidu Cloud</a> </td>
