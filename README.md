@@ -86,6 +86,30 @@ PSNR and SSIM results are computed by using this [Matlab Code](https://github.co
     <td> Not available </td>
     <td> Not available </td>
   </tr>
+  <tr>
+    <td>Restormer</td>
+    <td> Not available </td>
+    <td> Not available </td>
+    <td> Not available </td>
+    <td> Not available </td>
+    <td> Not available </td>
+  </tr>
+  <tr>
+    <td>IDT</td>
+    <td> Not available </td>
+    <td> Not available </td>
+    <td> Not available </td>
+    <td> Not available </td>
+    <td> Not available </td>
+  </tr>
+  <tr>
+    <td>Ours</td>
+    <td> Not available </td>
+    <td> Not available </td>
+    <td> Not available </td>
+    <td> Not available </td>
+    <td> Not available </td>
+  </tr>
 </tbody>
 </table>
 
