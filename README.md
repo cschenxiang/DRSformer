@@ -46,7 +46,7 @@
   </tr>
 </tbody>
 </table>
-
+- Here, these datasets we provided are fully paired images, especially SPA-Data.
 
 ## Performance Evaluation
 See folder "evaluations" 
