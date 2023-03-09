@@ -13,7 +13,39 @@
 
 ## Network Architecture
 
-<img src = "figs/network.png"> 
+<img src = "figs/network.png">
+
+## Datasets
+<table>
+<thead>
+  <tr>
+    <th>Dataset</th>
+    <th>Rain200L</th>
+    <th>Rain200H</th>
+    <th>DID-Data</th>
+    <th>DDN-Data</th>
+    <th>SPA-Data</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Train / Test</td>
+    <td>1,800 / 200</td>
+    <td>1,800 / 200</td>
+    <td>12,000 / 1,200</td>
+    <td>14,000 / 1,400</td>
+    <td>638,492 / 1,000</td> 
+  <tr>
+    <td>Baidu Cloud</td>
+    <td> <a href="https://pan.baidu.com/s/1rTb4qU3fCEA4MRpQss__DA?pwd=s2yx">Baidu Cloud</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1KK8R2bPKgcOX8gMXSuKtCQ?pwd=z9br">Baidu Cloud</a> </td>
+    <td> <a href="">Baidu Cloud</a> </td>
+    <td> <a href="">Baidu Cloud</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1YfxC5OvgYcQCffEttFz8Kg?pwd=yjow">Baidu Cloud</a> </td>
+  </tr>
+</tbody>
+</table>
+
 
 ## Performance Evaluation
 See folder "evaluations" 
