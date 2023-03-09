@@ -72,7 +72,7 @@ PSNR and SSIM results are computed by using this [Matlab Code](https://github.co
   </tr>
   <tr>
     <td>SPDNet</td>
-    <td> <a href="https://pan.baidu.com/s/1o9eLMv7Zfk_GC9F4eWC2kw?pwd=v8qy">Download</a> </td>
+    <td> Not available </td>
     <td> Not available </td>
     <td> Not available </td>
     <td> Not available </td>
@@ -80,7 +80,7 @@ PSNR and SSIM results are computed by using this [Matlab Code](https://github.co
   </tr>
   <tr>
     <td>Uformer-B</td>
-    <td> <a href="https://pan.baidu.com/s/1o9eLMv7Zfk_GC9F4eWC2kw?pwd=v8qy">Download</a> </td>
+    <td> Not available </td>
     <td> Not available </td>
     <td> Not available </td>
     <td> Not available </td>
@@ -88,7 +88,7 @@ PSNR and SSIM results are computed by using this [Matlab Code](https://github.co
   </tr>
   <tr>
     <td>Restormer</td>
-    <td> <a href="https://pan.baidu.com/s/1o9eLMv7Zfk_GC9F4eWC2kw?pwd=v8qy">Download</a> </td>
+    <td> Not available </td>
     <td> Not available </td>
     <td> Not available </td>
     <td> Not available </td>
@@ -96,7 +96,7 @@ PSNR and SSIM results are computed by using this [Matlab Code](https://github.co
   </tr>
   <tr>
     <td>IDT</td>
-    <td> <a href="https://pan.baidu.com/s/1o9eLMv7Zfk_GC9F4eWC2kw?pwd=v8qy">Download</a> </td>
+    <td> Not available </td>
     <td> Not available </td>
     <td> Not available </td>
     <td> Not available </td>
@@ -104,7 +104,7 @@ PSNR and SSIM results are computed by using this [Matlab Code](https://github.co
   </tr>
   <tr>
     <td>Ours</td>
-    <td> <a href="https://pan.baidu.com/s/1o9eLMv7Zfk_GC9F4eWC2kw?pwd=v8qy">Download</a> </td>
+    <td> Not available </td>
     <td> Not available </td>
     <td> Not available </td>
     <td> Not available </td>
