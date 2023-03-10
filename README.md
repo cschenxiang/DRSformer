@@ -80,19 +80,19 @@ PSNR and SSIM results are computed by using this [Matlab Code](https://github.co
   </tr>
   <tr>
     <td>Uformer-B</td>
-    <td> Not available </td>
-    <td> Not available </td>
-    <td> Not available </td>
-    <td> Not available </td>
-    <td> Not available </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
   </tr>
   <tr>
     <td>Restormer</td>
-    <td> Not available </td>
-    <td> Not available </td>
-    <td> Not available </td>
-    <td> Not available </td>
-    <td> Not available </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
   </tr>
   <tr>
     <td>IDT</td>
@@ -104,11 +104,11 @@ PSNR and SSIM results are computed by using this [Matlab Code](https://github.co
   </tr>
   <tr>
     <td>Ours</td>
-    <td> Not available </td>
-    <td> Not available </td>
-    <td> Not available </td>
-    <td> Not available </td>
-    <td> Not available </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
   </tr>
 </tbody>
 </table>
