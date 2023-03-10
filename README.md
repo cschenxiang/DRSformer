@@ -72,11 +72,11 @@ PSNR and SSIM results are computed by using this [Matlab Code](https://github.co
   </tr>
   <tr>
     <td>SPDNet</td>
-    <td> Not available </td>
-    <td> Not available </td>
-    <td> Not available </td>
-    <td> Not available </td>
-    <td> Not available </td>
+    <td> <a href="https://pan.baidu.com/s/1u9F4IxA8GCxKGk6__W81Og?pwd=y39h">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1wSTwW6ewBUgNLj7l7i6HzQ?pwd=mry2">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1z3b60LHOyi8MLcn8fdNc8A?pwd=klci">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/130e74ISgZtlaw8w6ZzJgvQ?pwd=19bm">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1J0ybwnuT__ZGQZNbMTfw8Q?pwd=dd98">Download</a> </td>
   </tr>
   <tr>
     <td>Uformer-B</td>
@@ -96,11 +96,11 @@ PSNR and SSIM results are computed by using this [Matlab Code](https://github.co
   </tr>
   <tr>
     <td>IDT</td>
-    <td> Not available </td>
-    <td> Not available </td>
-    <td> Not available </td>
-    <td> Not available </td>
-    <td> Not available </td>
+    <td> <a href="https://pan.baidu.com/s/1jhHCHT64aDknc4g0ELZJGA?pwd=v4yd">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/10TZzZH0HisPV0Mw-E4SlTQ?pwd=77i4">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1svMZAUvs6P6RRNGyCTaeAA?pwd=8uxx">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1FSf3-9HEIQ-lLGRWesyszQ?pwd=0ey6">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/16hfo5VeUhzu6NYdcgf7-bg?pwd=b862">Download</a> </td>
   </tr>
   <tr>
     <td>Ours</td>
