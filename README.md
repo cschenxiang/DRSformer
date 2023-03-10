@@ -112,8 +112,6 @@ PSNR and SSIM results are computed by using this [Matlab Code](https://github.co
   </tr>
 </tbody>
 </table>
-For above methods, we retrain their models provided by the authors if no pretrained models are provided (i.e, SPDNet_DDN-Data, Uformer_all, Restormer_all), otherwise we evaluate them with their online codes.
-
 
 ## Citation
 If you are interested in this work, please consider citing:
