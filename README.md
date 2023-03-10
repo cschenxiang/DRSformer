@@ -65,7 +65,7 @@ PSNR and SSIM results are computed by using this [Matlab Code](https://github.co
   <tr>
     <td>DualGCN</td>
     <td> <a href="https://pan.baidu.com/s/1o9eLMv7Zfk_GC9F4eWC2kw?pwd=v8qy">Download</a> </td>
-    <td> Not available </td>
+    <td> <a href="https://pan.baidu.com/s/1o9eLMv7Zfk_GC9F4eWC2kw?pwd=v8qy">Download</a> </td>
     <td> Not available </td>
     <td> Not available </td>
     <td> Not available </td>
