@@ -79,14 +79,6 @@ PSNR and SSIM results are computed by using this [Matlab Code](https://github.co
     <td> <a href="https://pan.baidu.com/s/1J0ybwnuT__ZGQZNbMTfw8Q?pwd=dd98">Download</a> </td>
   </tr>
   <tr>
-    <td>Uformer-B</td>
-    <td> - </td>
-    <td> - </td>
-    <td> - </td>
-    <td> - </td>
-    <td> - </td>
-  </tr>
-  <tr>
     <td>Restormer</td>
     <td> - </td>
     <td> - </td>
