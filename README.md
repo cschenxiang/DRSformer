@@ -3,7 +3,7 @@
 [Xiang Chen](https://cschenxiang.github.io/), [Hao Li](https://house-leo.github.io/), Mingqiang Li, and [Jinshan Pan](https://jspan.github.io/)
 
 ## Updates
-- [2023-03-02] The Arxiv version of this paper will be available at March 20.
+- [2023-03-13] The arXiv version of this paper is available here.
 - [2023-02-28] This paper will appear in CVPR 2023.  
 
 <hr />
