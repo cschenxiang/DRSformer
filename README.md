@@ -80,11 +80,11 @@ PSNR and SSIM results are computed by using this [Matlab Code](https://github.co
   </tr>
   <tr>
     <td>Restormer</td>
-    <td> - </td>
-    <td> - </td>
-    <td> - </td>
-    <td> - </td>
-    <td> - </td>
+    <td> <a href="https://pan.baidu.com/s/1jv6PUMO7h_Tc4ovrCLQsSw?pwd=6a2z">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/16R0YamX-mfn6j9sYP7QpvA?pwd=9m1r">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1b8lrKE82wgM8RiYaMI6ZQA?pwd=1hql">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1GGqsfUOdoxod9vAUxB54PA?pwd=crj4">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1IG4T1Bz--FrDAuV6o-fykA?pwd=b40z">Download</a> </td>
   </tr>
   <tr>
     <td>IDT</td>
@@ -96,11 +96,11 @@ PSNR and SSIM results are computed by using this [Matlab Code](https://github.co
   </tr>
   <tr>
     <td>Ours</td>
-    <td> - </td>
-    <td> - </td>
-    <td> - </td>
-    <td> - </td>
-    <td> - </td>
+    <td> <a href="https://pan.baidu.com/s/1EwdN2KolW-nhZVCmIk0Mdg?pwd=0a28">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1Nwi4cDbXx23qwRZHuhshkw?pwd=gkg1">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1ioEcgvQK0Bg9BulEVJ-3CA?pwd=115c">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1sDMVoUu2v0H628LG4-qfhA?pwd=0nmx">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1j0TWBe2zPm4iMShQbReDUQ?pwd=jclh">Download</a> </td>
   </tr>
 </tbody>
 </table>
