@@ -68,21 +68,21 @@ Run the script then you can find the output visual results in the folder `test/o
 <tbody>
   <tr>
     <td>Baidu Cloud</td>
-    <td> <a href="">Download</a> </td>
-    <td> <a href="">Download</a> </td>
-    <td> <a href="">Download</a> </td>
-    <td> <a href="">Download</a> </td>
-    <td> <a href="">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1uj7TWVr4Ys00Xfc8i-AquQ?pwd=kzj5">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1paqtkKfdjLGetnRVhDb6LQ?pwd=j10m">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1xSS5N5gUkpQ_Jl8MUz6wlw?pwd=nact">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1RKG-Eel29lgi0nHwdk2JIw?pwd=hj6r">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1Jp5sAsFFmJmko7ZwHdKmxQ?pwd=vfvt">Download</a> </td>
   </tr>
 </tbody>
 <tbody>
   <tr>
     <td>Google Drive</td>
-    <td> <a href="">Download</a> </td>
-    <td> <a href="">Download</a> </td>
-    <td> <a href="">Download</a> </td>
-    <td> <a href="">Download</a> </td>
-    <td> <a href="">Download</a> </td>
+    <td> <a href="https://drive.google.com/file/d/1Mm6hWdpjo9eEoNlCHAxd03etY3ks-zyy/view?usp=sharing">Download</a> </td>
+    <td> <a href="https://drive.google.com/file/d/1mt8ydHE540_qtytger4dVcv6xqZ5YMhh/view?usp=sharing">Download</a> </td>
+    <td> <a href="https://drive.google.com/file/d/1U_UEGPhYRJ-G10-Dypr7FbwDRGmroAHC/view?usp=sharing">Download</a> </td>
+    <td> <a href="https://drive.google.com/file/d/1kwPOfufdUf9bCZ-OvwIziw-6ZRdcT2RX/view?usp=sharing">Download</a> </td>
+    <td> <a href="https://drive.google.com/file/d/1i33Zmb1YXdLcalJOIP7YTegjnuTsVcC1/view?usp=sharing">Download</a> </td>
   </tr>
 </tbody>
 </table>
