@@ -1,5 +1,3 @@
-python test.py --task Deraining --input_dir './test/input/' --result_dir './test/output/'
-
 import torch
 import torch.nn.functional as F
 import torchvision.transforms.functional as TF
