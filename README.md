@@ -36,6 +36,23 @@
 </table>
 Here, these datasets we provided are fully paired images, especially SPA-Data. 
 
+## Training
+1. Please download the corresponding training datasets and put them in the folder `Datasets/train`. Download the testing datasets and put them in the folder `Datasets/test`. 
+2. Follow the instructions below to begin training our model.
+```
+cd DRSformer
+bash train.sh
+```
+Run the script then you can find the generated experimental logs in the folder `experiments`.
+
+## Testing
+1. Please download the corresponding testing datasets and put them in the folder `test/input`. Download the corresponding pre-trained models and put them in the folder `pretrained_models`.
+2. Follow the instructions below to begin testing our model.
+```
+python test.py
+```
+Run the script then you can find the output visual results in the folder `test/output/Deraining`.
+
 ## Performance Evaluation
 See folder "evaluations" 
 
