@@ -49,7 +49,7 @@ Run the script then you can find the generated experimental logs in the folder `
 1. Please download the corresponding testing datasets and put them in the folder `test/input`. Download the corresponding pre-trained models and put them in the folder `pretrained_models`.
 2. Follow the instructions below to begin testing our model.
 ```
-python test.py
+python test.py --task Deraining --input_dir './test/input/' --result_dir './test/output/'
 ```
 Run the script then you can find the output visual results in the folder `test/output/Deraining`.
 
