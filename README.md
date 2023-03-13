@@ -53,6 +53,40 @@ python test.py
 ```
 Run the script then you can find the output visual results in the folder `test/output/Deraining`.
 
+## Pre-trained Models
+<table>
+<thead>
+  <tr>
+    <th>Dataset</th>
+    <th>Rain200L</th>
+    <th>Rain200H</th>
+    <th>DID-Data</th>
+    <th>DDN-Data</th>
+    <th>SPA-Data</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Baidu Cloud</td>
+    <td> <a href="">Download</a> </td>
+    <td> <a href="">Download</a> </td>
+    <td> <a href="">Download</a> </td>
+    <td> <a href="">Download</a> </td>
+    <td> <a href="">Download</a> </td>
+  </tr>
+</tbody>
+<tbody>
+  <tr>
+    <td>Google Drive</td>
+    <td> <a href="">Download</a> </td>
+    <td> <a href="">Download</a> </td>
+    <td> <a href="">Download</a> </td>
+    <td> <a href="">Download</a> </td>
+    <td> <a href="">Download</a> </td>
+  </tr>
+</tbody>
+</table>
+
 ## Performance Evaluation
 See folder "evaluations" 
 
