@@ -2,7 +2,7 @@
 
 [Xiang Chen](https://cschenxiang.github.io/), [Hao Li](https://house-leo.github.io/), Mingqiang Li, and [Jinshan Pan](https://jspan.github.io/)
 
------The arXiv version of this paper will coming soon!-----
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2303.11950)
 
 <hr />
 
