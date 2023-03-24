@@ -40,7 +40,8 @@ Here, these datasets we provided are fully paired images, especially SPA-Data.
 
 ## Training
 1. Please download the corresponding training datasets and put them in the folder `Datasets/train`. Download the testing datasets and put them in the folder `Datasets/test`. 
-2. Follow the instructions below to begin training our model.
+2. Note that we do not use MEFC for training Rain200L and SPA-Data, because their rain streaks are less complex and easier to learn. Please modify the file `DRSformer_arch.py`.
+3. Follow the instructions below to begin training our model.
 ```
 cd DRSformer
 bash train.sh
@@ -49,7 +50,8 @@ Run the script then you can find the generated experimental logs in the folder `
 
 ## Testing
 1. Please download the corresponding testing datasets and put them in the folder `test/input`. Download the corresponding pre-trained models and put them in the folder `pretrained_models`.
-2. Follow the instructions below to begin testing our model.
+2. Note that we do not use MEFC for training Rain200L and SPA-Data, because their rain streaks are less complex and easier to learn. Please modify the file `DRSformer_arch.py`.
+3. Follow the instructions below to begin testing our model.
 ```
 python test.py --task Deraining --input_dir './test/input/' --result_dir './test/output/'
 ```
