@@ -447,8 +447,8 @@ class DRSformer(nn.Module):
     def forward(self, inp_img):
 
         inp_enc_level1 = self.patch_embed(inp_img)
-        inp_enc_level0 = self.encoder_level0(inp_enc_level1)
-        out_enc_level1 = self.encoder_level1(inp_enc_level0)  ## We do not use MEFC for training Rain200L and SPA-Data
+        inp_enc_level0 = self.encoder_level0(inp_enc_level1) ## We do not use MEFC for training Rain200L and SPA-Data
+        out_enc_level1 = self.encoder_level1(inp_enc_level0)  
 
         inp_enc_level2 = self.down1_2(out_enc_level1)
         out_enc_level2 = self.encoder_level2(inp_enc_level2)
