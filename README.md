@@ -136,6 +136,14 @@ Please note that Table 1 above is our final camera-ready version. There exists t
     <td> <a href="https://pan.baidu.com/s/1J0ybwnuT__ZGQZNbMTfw8Q?pwd=dd98">Download</a> </td>
   </tr>
   <tr>
+    <td>Uformer</td>
+    <td> - </td>
+    <td> - </td>
+    <td> <a href="https://pan.baidu.com/s/1fWLjSCSaewz1QXdddkpkIw?pwd=4uur">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1cWY7piDJRF05qKYPNXt_cA?pwd=39bj">Download</a> </td>
+    <td> - </td>
+  </tr>
+  <tr>
     <td>Restormer</td>
     <td> <a href="https://pan.baidu.com/s/1jv6PUMO7h_Tc4ovrCLQsSw?pwd=6a2z">Download</a> </td>
     <td> <a href="https://pan.baidu.com/s/16R0YamX-mfn6j9sYP7QpvA?pwd=9m1r">Download</a> </td>
