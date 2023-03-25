@@ -102,7 +102,7 @@ PSNR and SSIM results are computed by using this [Matlab Code](https://github.co
 
 <img src = "figs/table.png">
 
-Please note that the Table 1 above is our final camera-ready version. There exists the slight gap between the final version and the arXiv version due to errors caused by different testing devices and environments. It is recommended that you can download the visual deraining results and retest the quantitative results on your own device and environment.
+Please note that Table 1 above is our final camera-ready version. There exists the slight gap between the final version and the arXiv version due to errors caused by different testing devices and environments. It is recommended that you can download the visual deraining results and retest the quantitative results on your own device and environment.
 
 ## Visual Deraining Results
 <table>
