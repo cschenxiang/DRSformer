@@ -100,6 +100,8 @@ PSNR and SSIM results are computed by using this [Matlab Code](https://github.co
 2) *for DID-Data and DDN-Data datasets*: 
 PSNR and SSIM results are computed by using this [Matlab Code](https://github.com/hongwang01/RCDNet/tree/master/Performance_evaluation).
 
+<img src = "figs/table.png">
+
 ## Visual Deraining Results
 <table>
 <thead>
