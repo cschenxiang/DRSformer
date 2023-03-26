@@ -178,8 +178,8 @@ For DualGCN, SPDNet, Restormer and IDT, we retrain their models provided by the 
   <tr>
     <th>Dataset</th>
     <th>PSNR / SSIM</th>
-    <th>Pre-trained Models</th>
-    <th>Visual Results</th>
+    <th>Models</th>
+    <th>Results</th>
   </tr>
 </thead>
 <tbody>
