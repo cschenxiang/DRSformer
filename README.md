@@ -177,28 +177,24 @@ For DualGCN, SPDNet, Restormer and IDT, we retrain their models provided by the 
 <thead>
   <tr>
     <th>Dataset</th>
-    <th>Rain100L</th>
-    <th>Rain100H</th>
+    <th>PSNR / SSIM</th>
+    <th>Pre-trained Models</th>
+    <th>Visual Results</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>PSNR/SSIM</td>
-    <td> 42.49/0.9904 </td>
-    <td> 33.79/0.9375 </td>
-  </tr>
-</tbody>
-<tbody>
-  <tr>
-    <td>Pre-trained Models</td>
+    <td>Rain100L</td>
+    <td> 42.49 / 0.9904 </td>
     <td> <a href="https://drive.google.com/file/d/1EgMPccXCyaihI4pThYdyo18V3wf6i7rV/view?usp=sharing">Download</a> </td>
-    <td> <a href="https://drive.google.com/file/d/1-yBWNUurYazS5P1L-kPxCo7fr1vRvC9V/view?usp=sharing">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1zGcWPMTZ8I-U0ffX0qDEHw?pwd=nsuw">Download</a> </td>
   </tr>
 </tbody>
 <tbody>
   <tr>
-    <td>Visual Results</td>
-    <td> <a href="https://pan.baidu.com/s/1zGcWPMTZ8I-U0ffX0qDEHw?pwd=nsuw">Download</a> </td>
+    <td>Rain100H</td>
+    <td> 33.79 / 0.9375 </td>
+    <td> <a href="https://drive.google.com/file/d/1-yBWNUurYazS5P1L-kPxCo7fr1vRvC9V/view?usp=sharing">Download</a> </td>
     <td> <a href="https://pan.baidu.com/s/1RZO5woGLbKR5H1kqJbXGFw?pwd=jbh4">Download</a> </td>
   </tr>
 </tbody>
