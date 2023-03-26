@@ -172,6 +172,38 @@ Please note that Table 1 above is our final camera-ready version. There exists t
 
 For DualGCN, SPDNet, Restormer and IDT, we retrain their models provided by the authors if no pretrained models are provided, otherwise we evaluate them with their online codes. For Uformer, we refer to some reported results in [IDT](https://github.com/jiexiaou/IDT). Noted that since the PSNR/SIMM codes used to test DID-Data and DDN-Data in their paper are different from ours, we retrain the Uformer on the DID-Data and DDN-Data. For other previous methods, we refer to reported results in [here](https://ieeexplore.ieee.org/document/10035447/) with same PSNR/SIMM codes.
 
+## More Results
+<table>
+<thead>
+  <tr>
+    <th>Dataset</th>
+    <th>Rain100L</th>
+    <th>Rain100H</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>PSNR/SSIM</td>
+    <td> 42.49/0.9904 </td>
+    <td> 33.79/0.9375 </td>
+  </tr>
+</tbody>
+<tbody>
+  <tr>
+    <td>Pre-trained Models</td>
+    <td> <a href="https://drive.google.com/file/d/1EgMPccXCyaihI4pThYdyo18V3wf6i7rV/view?usp=sharing">Download</a> </td>
+    <td> <a href="https://drive.google.com/file/d/1-yBWNUurYazS5P1L-kPxCo7fr1vRvC9V/view?usp=sharing">Download</a> </td>
+  </tr>
+</tbody>
+<tbody>
+  <tr>
+    <td>Visual Results</td>
+    <td> <a href="https://pan.baidu.com/s/1zGcWPMTZ8I-U0ffX0qDEHw?pwd=nsuw">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1RZO5woGLbKR5H1kqJbXGFw?pwd=jbh4">Download</a> </td>
+  </tr>
+</tbody>
+</table>
+
 
 ## Citation
 If you are interested in this work, please consider citing:
