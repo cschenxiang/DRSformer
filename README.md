@@ -2,9 +2,7 @@
 
 [Xiang Chen](https://cschenxiang.github.io/), [Hao Li](https://house-leo.github.io/), Mingqiang Li, and [Jinshan Pan](https://jspan.github.io/)
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2303.11950)
-[![paper](https://img.shields.io/badge/paper-camera%20ready-orange)](https://drive.google.com/file/d/1TCrrDSVeXgxTcgzbs5RoKAg5Olv-g4N0/view?usp=sharing)
-[![supplement](https://img.shields.io/badge/Supplementary-Material-red)](https://drive.google.com/file/d/1g9p3HcOYFD8PevLBF8zJ2Sb-1T3vbxoV/view?usp=sharing)
+[Paper Download]([https://arxiv.org/abs/2305.08824](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Learning_a_Sparse_Transformer_Network_for_Effective_Image_Deraining_CVPR_2023_paper.html))
 
 <hr />
 
