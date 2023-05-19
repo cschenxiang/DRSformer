@@ -202,12 +202,14 @@ For DualGCN, SPDNet, Restormer and IDT, we retrain their models provided by the 
 ## Citation
 If you are interested in this work, please consider citing:
 
-    @inproceedings{DRSformer,
-        title={Learning A Sparse Transformer Network for Effective Image Deraining}, 
-        author={Chen, Xiang and and Li, Hao and Li, Mingqiang and Pan, Jinshan},
-        booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-        year={2023}
-    }
+@InProceedings{Chen_2023_CVPR,
+    author    = {Chen, Xiang and Li, Hao and Li, Mingqiang and Pan, Jinshan},
+    title     = {Learning a Sparse Transformer Network for Effective Image Deraining},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {5896-5905}
+}
 
 ## Acknowledgment
 This code is based on the [Restormer](https://github.com/swz30/Restormer). Thanks for their awesome work.
