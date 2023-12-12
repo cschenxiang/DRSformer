@@ -119,51 +119,51 @@ Please note that Table 1 above is our final camera-ready version. There exists t
 <tbody>
   <tr>
     <td>DualGCN</td>
-    <td> <a href="https://pan.baidu.com/s/1o9eLMv7Zfk_GC9F4eWC2kw?pwd=v8qy">Download (v8qy)</a>  </td>
-    <td> <a href="https://pan.baidu.com/s/1QiKh5fTV-QSdnwMsZdDe9Q?pwd=jnc9">Download (jnc9)</a>  </td>
-    <td> <a href="https://pan.baidu.com/s/1Wh7eJdOwXPABz5aOBPDHaA?pwd=3gdx">Download (3gdx)</a>  </td>
-    <td> <a href="https://pan.baidu.com/s/1ML1A1boxwX38TGccTzr6KA?pwd=1mdx">Download (1mdx)</a>  </td>
-    <td> <a href="https://pan.baidu.com/s/16RHVyrBoPnOhW1QuglRmlw?pwd=lkeb">Download (lkeb)</a>  </td>
+    <td> <a href="https://pan.baidu.com/s/1o9eLMv7Zfk_GC9F4eWC2kw?pwd=v8qy">DWL (v8qy)</a>  </td>
+    <td> <a href="https://pan.baidu.com/s/1QiKh5fTV-QSdnwMsZdDe9Q?pwd=jnc9">DWL (jnc9)</a>  </td>
+    <td> <a href="https://pan.baidu.com/s/1Wh7eJdOwXPABz5aOBPDHaA?pwd=3gdx">DWL (3gdx)</a>  </td>
+    <td> <a href="https://pan.baidu.com/s/1ML1A1boxwX38TGccTzr6KA?pwd=1mdx">DWL (1mdx)</a>  </td>
+    <td> <a href="https://pan.baidu.com/s/16RHVyrBoPnOhW1QuglRmlw?pwd=lkeb">DWL (lkeb)</a>  </td>
   </tr>
   <tr>
     <td>SPDNet</td>
-    <td> <a href="https://pan.baidu.com/s/1u9F4IxA8GCxKGk6__W81Og?pwd=y39h">Download (y39h)</a>  </td>
-    <td> <a href="https://pan.baidu.com/s/1wSTwW6ewBUgNLj7l7i6HzQ?pwd=mry2">Download (mry2)</a>  </td>
-    <td> <a href="https://pan.baidu.com/s/1z3b60LHOyi8MLcn8fdNc8A?pwd=klci">Download (klci)</a>  </td>
-    <td> <a href="https://pan.baidu.com/s/130e74ISgZtlaw8w6ZzJgvQ?pwd=19bm">Download (19bm)</a>  </td>
-    <td> <a href="https://pan.baidu.com/s/1J0ybwnuT__ZGQZNbMTfw8Q?pwd=dd98">Download (dd98)</a>  </td>
+    <td> <a href="https://pan.baidu.com/s/1u9F4IxA8GCxKGk6__W81Og?pwd=y39h">DWL (y39h)</a>  </td>
+    <td> <a href="https://pan.baidu.com/s/1wSTwW6ewBUgNLj7l7i6HzQ?pwd=mry2">DWL (mry2)</a>  </td>
+    <td> <a href="https://pan.baidu.com/s/1z3b60LHOyi8MLcn8fdNc8A?pwd=klci">DWL (klci)</a>  </td>
+    <td> <a href="https://pan.baidu.com/s/130e74ISgZtlaw8w6ZzJgvQ?pwd=19bm">DWL (19bm)</a>  </td>
+    <td> <a href="https://pan.baidu.com/s/1J0ybwnuT__ZGQZNbMTfw8Q?pwd=dd98">DWL (dd98)</a>  </td>
   </tr>
   <tr>
     <td>Uformer</td>
     <td> - </td>
     <td> - </td>
-    <td> <a href="https://pan.baidu.com/s/1fWLjSCSaewz1QXdddkpkIw?pwd=4uur">Download (4uur)</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1cWY7piDJRF05qKYPNXt_cA?pwd=39bj">Download (39bj)</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1fWLjSCSaewz1QXdddkpkIw?pwd=4uur">DWL (4uur)</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1cWY7piDJRF05qKYPNXt_cA?pwd=39bj">DWL (39bj)</a> </td>
     <td> - </td>
   </tr>
   <tr>
     <td>Restormer</td>
-    <td> <a href="https://pan.baidu.com/s/1jv6PUMO7h_Tc4ovrCLQsSw?pwd=6a2z">Download (6a2z)</a> </td>
-    <td> <a href="https://pan.baidu.com/s/16R0YamX-mfn6j9sYP7QpvA?pwd=9m1r">Download (9m1r)</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1b8lrKE82wgM8RiYaMI6ZQA?pwd=1hql">Download (1hql)</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1GGqsfUOdoxod9vAUxB54PA?pwd=crj4">Download (crj4)</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1IG4T1Bz--FrDAuV6o-fykA?pwd=b40z">Download (b40z)</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1jv6PUMO7h_Tc4ovrCLQsSw?pwd=6a2z">DWL (6a2z)</a> </td>
+    <td> <a href="https://pan.baidu.com/s/16R0YamX-mfn6j9sYP7QpvA?pwd=9m1r">DWL (9m1r)</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1b8lrKE82wgM8RiYaMI6ZQA?pwd=1hql">DWL (1hql)</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1GGqsfUOdoxod9vAUxB54PA?pwd=crj4">DWL (crj4)</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1IG4T1Bz--FrDAuV6o-fykA?pwd=b40z">DWL (b40z)</a> </td>
   </tr>
   <tr>
     <td>IDT</td>
-    <td> <a href="https://pan.baidu.com/s/1jhHCHT64aDknc4g0ELZJGA?pwd=v4yd">Download (v4yd)</a> </td>
-    <td> <a href="https://pan.baidu.com/s/10TZzZH0HisPV0Mw-E4SlTQ?pwd=77i4">Download (77i4)</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1svMZAUvs6P6RRNGyCTaeAA?pwd=8uxx">Download (8uxx)</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1FSf3-9HEIQ-lLGRWesyszQ?pwd=0ey6">Download (0ey6)</a> </td>
-    <td> <a href="https://pan.baidu.com/s/16hfo5VeUhzu6NYdcgf7-bg?pwd=b862">Download (b862)</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1jhHCHT64aDknc4g0ELZJGA?pwd=v4yd">DWL (v4yd)</a> </td>
+    <td> <a href="https://pan.baidu.com/s/10TZzZH0HisPV0Mw-E4SlTQ?pwd=77i4">DWL (77i4)</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1svMZAUvs6P6RRNGyCTaeAA?pwd=8uxx">DWL (8uxx)</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1FSf3-9HEIQ-lLGRWesyszQ?pwd=0ey6">DWL (0ey6)</a> </td>
+    <td> <a href="https://pan.baidu.com/s/16hfo5VeUhzu6NYdcgf7-bg?pwd=b862">DWL (b862)</a> </td>
   </tr>
   <tr>
     <td>Ours</td>
-    <td> <a href="https://pan.baidu.com/s/1-ElpyJigVnpt5xDFE6Pqqw?pwd=hyuv">Download (hyuv)</a> </td>
-    <td> <a href="https://pan.baidu.com/s/13aJKxH7V_6CIAynbkHXIyQ?pwd=px2j">Download (px2j)</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1Xl3q05rZYmNEtQp5eLTTKw?pwd=t879">Download (t879)</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1D36Z0cEVPPbm5NljV-8yoA?pwd=9vtz">Download (9vtz)</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1Rc36xXlfaIyx3s2gqUg_Bg?pwd=bl4n">Download (bl4n)</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1-ElpyJigVnpt5xDFE6Pqqw?pwd=hyuv">DWL (hyuv)</a> </td>
+    <td> <a href="https://pan.baidu.com/s/13aJKxH7V_6CIAynbkHXIyQ?pwd=px2j">DWL (px2j)</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1Xl3q05rZYmNEtQp5eLTTKw?pwd=t879">DWL (t879)</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1D36Z0cEVPPbm5NljV-8yoA?pwd=9vtz">DWL (9vtz)</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1Rc36xXlfaIyx3s2gqUg_Bg?pwd=bl4n">DWL (bl4n)</a> </td>
   </tr>
 </tbody>
 </table>
