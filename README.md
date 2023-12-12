@@ -72,11 +72,11 @@ Run the script then you can find the output visual results in the folder `test/o
 <tbody>
   <tr>
     <td>Baidu Cloud</td>
-    <td> <a href="https://pan.baidu.com/s/1uj7TWVr4Ys00Xfc8i-AquQ?pwd=kzj5">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1paqtkKfdjLGetnRVhDb6LQ?pwd=j10m">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1xSS5N5gUkpQ_Jl8MUz6wlw?pwd=nact">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1RKG-Eel29lgi0nHwdk2JIw?pwd=hj6r">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1Jp5sAsFFmJmko7ZwHdKmxQ?pwd=vfvt">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1uj7TWVr4Ys00Xfc8i-AquQ?pwd=kzj5">Download</a> (kzj5) </td>
+    <td> <a href="https://pan.baidu.com/s/1paqtkKfdjLGetnRVhDb6LQ?pwd=j10m">Download</a> (j10m) </td>
+    <td> <a href="https://pan.baidu.com/s/1xSS5N5gUkpQ_Jl8MUz6wlw?pwd=nact">Download</a> (nact) </td>
+    <td> <a href="https://pan.baidu.com/s/1RKG-Eel29lgi0nHwdk2JIw?pwd=hj6r">Download</a> (hj6r) </td>
+    <td> <a href="https://pan.baidu.com/s/1Jp5sAsFFmJmko7ZwHdKmxQ?pwd=vfvt">Download</a> (vfvt) </td>
   </tr>
 </tbody>
 <tbody>
@@ -119,19 +119,19 @@ Please note that Table 1 above is our final camera-ready version. There exists t
 <tbody>
   <tr>
     <td>DualGCN</td>
-    <td> <a href="https://pan.baidu.com/s/1o9eLMv7Zfk_GC9F4eWC2kw?pwd=v8qy">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1QiKh5fTV-QSdnwMsZdDe9Q?pwd=jnc9">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1Wh7eJdOwXPABz5aOBPDHaA?pwd=3gdx">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1ML1A1boxwX38TGccTzr6KA?pwd=1mdx">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/16RHVyrBoPnOhW1QuglRmlw?pwd=lkeb">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1o9eLMv7Zfk_GC9F4eWC2kw?pwd=v8qy">Download</a> (v8qy) </td>
+    <td> <a href="https://pan.baidu.com/s/1QiKh5fTV-QSdnwMsZdDe9Q?pwd=jnc9">Download</a> (jnc9) </td>
+    <td> <a href="https://pan.baidu.com/s/1Wh7eJdOwXPABz5aOBPDHaA?pwd=3gdx">Download</a> (3gdx) </td>
+    <td> <a href="https://pan.baidu.com/s/1ML1A1boxwX38TGccTzr6KA?pwd=1mdx">Download</a> (1mdx) </td>
+    <td> <a href="https://pan.baidu.com/s/16RHVyrBoPnOhW1QuglRmlw?pwd=lkeb">Download</a> (lkeb) </td>
   </tr>
   <tr>
     <td>SPDNet</td>
-    <td> <a href="https://pan.baidu.com/s/1u9F4IxA8GCxKGk6__W81Og?pwd=y39h">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1wSTwW6ewBUgNLj7l7i6HzQ?pwd=mry2">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1z3b60LHOyi8MLcn8fdNc8A?pwd=klci">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/130e74ISgZtlaw8w6ZzJgvQ?pwd=19bm">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1J0ybwnuT__ZGQZNbMTfw8Q?pwd=dd98">Download</a> </td>
+    <td> <a href="https://pan.baidu.com/s/1u9F4IxA8GCxKGk6__W81Og?pwd=y39h">Download</a> (y39h) </td>
+    <td> <a href="https://pan.baidu.com/s/1wSTwW6ewBUgNLj7l7i6HzQ?pwd=mry2">Download</a> (mry2) </td>
+    <td> <a href="https://pan.baidu.com/s/1z3b60LHOyi8MLcn8fdNc8A?pwd=klci">Download</a> (klci) </td>
+    <td> <a href="https://pan.baidu.com/s/130e74ISgZtlaw8w6ZzJgvQ?pwd=19bm">Download</a> (19bm) </td>
+    <td> <a href="https://pan.baidu.com/s/1J0ybwnuT__ZGQZNbMTfw8Q?pwd=dd98">Download</a> (dd98) </td>
   </tr>
   <tr>
     <td>Uformer</td>
